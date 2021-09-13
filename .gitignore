@@ -13,3 +13,6 @@ buildNumber.properties
 
 #IDE 
 .project
+
+#Sphinx
+build
